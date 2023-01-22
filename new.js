@@ -20,3 +20,5 @@ area = radius*radius*pi
 console.log(area)
 
 //(3)
+
+console.log("hello world")
